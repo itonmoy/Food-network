@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
 }
 .text-coloring {
-    color: orange;
+  color: orange;
 }
 .section-part {
   width: 50%;
@@ -33,7 +33,7 @@ section {
   width: 65%;
   margin-left: 10%;
 }
-.about-me{
+.about-me {
   color: dimgray;
 }
 .button {
@@ -63,45 +63,46 @@ p {
   border-radius: 25px;
   margin-top: 6%;
   margin-left: 16%;
- 
 }
 .Section-recipe h3,
 p {
   margin-left: 2%;
 }
-.Fourth-sec h2, h6{
+.Fourth-sec h2,
+h6 {
   text-align: center;
   color: DimGray;
 }
-.Fourth-sec h6{
+.Fourth-sec h6 {
   text-transform: uppercase;
 }
-.cuisines{
+.cuisines {
   display: flex;
   justify-content: center;
 }
-.fav-cuisine{
+.fav-cuisine {
   width: 25%;
 }
-.fav-cuisine{
+.fav-cuisine {
   text-align: center;
   color: rgb(197, 145, 49);
 }
-.fav-cuisine img{
+.fav-cuisine img {
   width: 80%;
   border-radius: 50%;
 }
-footer{
-    height: 120px;
-    background-color: black;
-    width: 100%;
+footer {
+  height: 120px;
+  background-color: black;
+  width: 100%;
 }
-footer h2, p{
-    text-align: center;
+footer h2,
+p {
+  text-align: center;
 }
-footer h2{
-    padding: 10px;
+footer h2 {
+  padding: 10px;
 }
-.footer-text__color{
-    color: #5B5B5B;
+.footer-text__color {
+  color: #5b5b5b;
 }
